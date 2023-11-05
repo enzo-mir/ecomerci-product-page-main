@@ -1,0 +1,18 @@
+{
+  "colors": {
+    "primary_orange": "hsl(26, 100%, 55%)",
+    "primary_pale": "hsl(25, 100%, 94%)",
+    "secondary_darkBlue": "hsl(220, 13%, 13%)",
+    "secondary_dark_grayishBlue": "hsl(219, 9%, 45%)",
+    "secondary_grayishBlue": "hsl(220, 14%, 75%)",
+    "secondary_light_grayishBlue": "hsl(223, 64%, 98%)"
+  },
+  "font": {
+    "size": "16",
+    "family": "'Kumbh Sans', sans-serif",
+    "weight": {
+      "light": "400",
+      "bold": "700"
+    }
+  }
+}
